@@ -17,4 +17,5 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hey there! This is Jihoon, a PhD student of [Smart Design Lab](http://www.smartdesignlab.org/index.html) at KAIST.
-I'm interested in 3D Generative Design, Text-to-3D, Additive Manufacturing ,etc.
+I'm interested in Generative Design, Text-to-3D, and Additive Manufacturing.
+My research aim is to reduce the gap between product design and manufacturing in the field of generative design for engineering.
