@@ -7,7 +7,7 @@ subtitle: <a href='#'>Department of Mechanical Engineering, KAIST</a>
 profile:
   align: left
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: <p>F431</p> <p>193, Munji-ro, Yuseong-gu, </p> <p>Daejeon, Republic of Korea</p>
 
 news: false  # includes a list of news items
