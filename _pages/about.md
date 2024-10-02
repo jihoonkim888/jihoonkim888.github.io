@@ -5,8 +5,8 @@ permalink: /
 subtitle: <a href='#'>Department of Mechanical Engineering, KAIST</a>
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: profile_pic_informal.jpg
   image_circular: true # crops the image to make it circular
   more_info: <p>F431, Faculty Building, </p> <p>193, Munji-ro, Yuseong-gu, </p> <p>Daejeon, Republic of Korea</p>
 
