@@ -14,6 +14,7 @@ news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+repositories: true  # includes GitHub repositories
 ---
 
 As an AI Researcher at [Narnia Labs](https://www.narnia.ai/) and a Ph.D. student in Mechanical Engineering at KAIST, my driving passion is to transform Generative Design from a mere conceptual tool into a practical, efficient, and innovative solution for the manufacturing challenges of the future. 
