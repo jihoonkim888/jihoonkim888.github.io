@@ -24,7 +24,7 @@ At [SLB (previously Schlumberger)](https://www.slb.com/), my work involved devel
 
 Before joining KAIST, I received my [MSc degree in Data Science](https://www.bath.ac.uk/courses/postgraduate-2024/taught-postgraduate-courses/msc-data-science-with-professional-placement/) from University of Bath, UK, advised by [Dr. Wenbin Li](https://peringlab.org/), and [BEng degree in Mechanical Engineering](https://www.bristol.ac.uk/study/undergraduate/2024/mechanical-engineering/beng-mechanical-engineering/) from University of Bristol, UK.
 
-## Featured Projects
+## featured projects
 
 {% if site.data.repositories.github_repos %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
